@@ -1,0 +1,15 @@
+﻿<Window x:Class="FastCatXyi.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="textBoxProductName" Width="200" Height="25" Margin="10,35,315,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxDescription" Width="200" Height="25" Margin="10,65,315,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxPrice" Width="200" Height="25" Margin="10,95,315,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxStockQuantity" Width="200" Height="25" Margin="10,127,315,0" VerticalAlignment="Top"/>
+
+        <Button Content="Добавить данные" Width="200" Height="30" Margin="168,247,157,0" VerticalAlignment="Top" Click="Button_Click"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\ynit\\documents\\github\\server.fastcat\\fastcatxyi\\fastcatxyi\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\ynit\\documents\\github\\server.fastcat\\fastcatxyi\\fastcatxyi\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\ynit\\documents\\github\\server.fastcat\\fastcatxyi\\fastcatxyi\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\ynit\\documents\\github\\server.fastcat\\fastcatxyi\\fastcatxyi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\ynit\\documents\\github\\server.fastcat\\fastcatxyi\\fastcatxyi\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\ynit\\documents\\github\\server.fastcat\\fastcatxyi\\fastcatxyi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\ynit\\documents\\github\\server.fastcat\\fastcatxyi\\fastcatxyi\\fastcatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\fastcatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window2.xaml",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window2.xaml",
+              "ToolTip": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window2.xaml",
+              "RelativeToolTip": "FastCatXyi\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T11:57:48.334Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window2.xaml.cs",
+              "RelativeToolTip": "FastCatXyi\\Window2.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:58:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window1.xaml.cs",
+              "RelativeToolTip": "FastCatXyi\\Window1.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:56:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window1.xaml",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window1.xaml",
+              "ToolTip": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\Window1.xaml",
+              "RelativeToolTip": "FastCatXyi\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T11:55:06.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FastcatContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\FastcatContext.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\FastcatContext.cs",
+              "ToolTip": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\FastcatContext.cs",
+              "RelativeToolTip": "FastCatXyi\\FastcatContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:11:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FastCatXyi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\MainWindow.xaml",
+              "RelativeToolTip": "FastCatXyi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T09:49:07.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ynit\\Documents\\GitHub\\Server.fastcat\\FastCatXyi\\FastCatXyi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FastCatXyi\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:49:01.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
