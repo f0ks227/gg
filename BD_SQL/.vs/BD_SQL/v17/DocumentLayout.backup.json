@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|c:\\users\\201\\documents\\github\\gg\\bd_sql\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|solutionrelative:window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|c:\\users\\201\\documents\\github\\gg\\bd_sql\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|solutionrelative:window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|c:\\users\\201\\documents\\github\\gg\\bd_sql\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|c:\\users\\201\\documents\\github\\gg\\bd_sql\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|c:\\users\\201\\documents\\github\\gg\\bd_sql\\controluser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|solutionrelative:controluser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|c:\\users\\201\\documents\\github\\gg\\bd_sql\\controluser.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|solutionrelative:controluser.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|c:\\users\\201\\documents\\github\\gg\\bd_sql\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF8B068-66B1-464E-84F8-97CC739DBC8A}|BD_SQL.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "Window3.xaml.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\Window3.xaml.cs",
+              "RelativeToolTip": "Window3.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:33:04.26Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\Window3.xaml",
+              "RelativeDocumentMoniker": "Window3.xaml",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\Window3.xaml",
+              "RelativeToolTip": "Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T03:55:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\ControlUser.xaml.cs",
+              "RelativeDocumentMoniker": "ControlUser.xaml.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\ControlUser.xaml.cs",
+              "RelativeToolTip": "ControlUser.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:38:47.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlUser.xaml",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\ControlUser.xaml",
+              "RelativeDocumentMoniker": "ControlUser.xaml",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\ControlUser.xaml",
+              "RelativeToolTip": "ControlUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T04:38:15.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:01:55.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:38:28.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\BD_SQL\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T04:15:35.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

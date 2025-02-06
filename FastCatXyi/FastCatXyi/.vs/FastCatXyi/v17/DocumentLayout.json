@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\201\\documents\\github\\gg\\fastcatxyi\\fastcatxyi\\fastcatxyi\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\201\\documents\\github\\gg\\fastcatxyi\\fastcatxyi\\fastcatxyi\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\201\\documents\\github\\gg\\fastcatxyi\\fastcatxyi\\fastcatxyi\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\201\\documents\\github\\gg\\fastcatxyi\\fastcatxyi\\fastcatxyi\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\201\\documents\\github\\gg\\fastcatxyi\\fastcatxyi\\fastcatxyi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\201\\documents\\github\\gg\\fastcatxyi\\fastcatxyi\\fastcatxyi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|c:\\users\\201\\documents\\github\\gg\\fastcatxyi\\fastcatxyi\\fastcatxyi\\fastcatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BD07A-76E0-4BC7-BE36-B2D0929D1549}|FastCatXyi\\FastCatXyi.csproj|solutionrelative:fastcatxyi\\fastcatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window2.xaml",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window2.xaml",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window2.xaml",
+              "RelativeToolTip": "FastCatXyi\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T11:57:48.334Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window2.xaml.cs",
+              "RelativeToolTip": "FastCatXyi\\Window2.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:58:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window1.xaml.cs",
+              "RelativeToolTip": "FastCatXyi\\Window1.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:56:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window1.xaml",
+              "RelativeDocumentMoniker": "FastCatXyi\\Window1.xaml",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\Window1.xaml",
+              "RelativeToolTip": "FastCatXyi\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T11:55:06.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FastcatContext.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\FastcatContext.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\FastcatContext.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\FastcatContext.cs",
+              "RelativeToolTip": "FastCatXyi\\FastcatContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:11:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FastCatXyi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\MainWindow.xaml",
+              "RelativeToolTip": "FastCatXyi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T09:49:07.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FastCatXyi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\201\\Documents\\GitHub\\gg\\FastCatXyi\\FastCatXyi\\FastCatXyi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FastCatXyi\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:49:01.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
