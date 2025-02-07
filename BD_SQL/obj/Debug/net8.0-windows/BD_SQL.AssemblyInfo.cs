@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BD_SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d09b4b1b57f34f42933127b6e3797837ceac6eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08b8b09e6b5d1bcac11be327d1415b47e47c56b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BD_SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BD_SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
