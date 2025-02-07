@@ -38,6 +38,7 @@
                 HorizontalAlignment="Left"
                 Margin="331,270,0,0"
                 VerticalAlignment="Top"
+
                 Height="65"
                 Width="164"
                 Click="Button_Click_1"
@@ -46,13 +47,14 @@
                  Margin="602,168,0,0"
                  x:Name="userName"
                  TextWrapping="Wrap"
-                 Text=""
+                 Text="???? ??????"
                  VerticalAlignment="Top"
                  Width="120"
                  TextChanged="TextBox_TextChanged_1"
                  Height="18" />
         <PasswordBox HorizontalAlignment="Left"
                      x:Name="userPass"
+                     
                      Margin="602,199,0,0"
                      VerticalAlignment="Top"
                      Width="120"

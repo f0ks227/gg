@@ -165,7 +165,12 @@ C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\Window1.g.cs
 C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\Window2.g.cs
 C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\Window1.baml
 C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\Window2.baml
-C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\ControlUser.g.cs
 C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\Window3.g.cs
-C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\ControlUser.baml
 C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\Window3.baml
+C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\UserControl1.g.cs
+C:\Users\201\Documents\GitHub\gg\BD_SQL\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\201\Documents\GitHub\gg\BD_SQL\bin\Debug\net8.0-windows\Pictures\1.png
+C:\Users\201\Documents\GitHub\gg\BD_SQL\bin\Debug\net8.0-windows\Pictures\2.png
+C:\Users\201\Documents\GitHub\gg\BD_SQL\bin\Debug\net8.0-windows\Pictures\3.png
+C:\Users\201\Documents\GitHub\gg\BD_SQL\bin\Debug\net8.0-windows\Pictures\4.png
+C:\Users\201\Documents\GitHub\gg\BD_SQL\bin\Debug\net8.0-windows\Pictures\5.jpg

@@ -24,8 +24,6 @@ namespace BD_SQL
             InitializeComponent();
         }
 
-    
-
         private void UserPane_Loaded(object sender, RoutedEventArgs e)
         {
             using (FastcatContext db = new FastcatContext())
@@ -33,14 +31,18 @@ namespace BD_SQL
                 var customers = db.Customers.ToList();
                 foreach (var user in customers)
                 {
-                    ControlUser userControl = new ControlUser();
-                    userControl.FullName.Text = user.FullName;
-                    userControl.Email.Text = user.Email;
-                    userControl.PhoneNumber.Text = user.PhoneNumber;
-                    userControl.Address.Text = user.Address;
-                    userControl.PasswordHash.Text = user.PasswordHash;
+                    UserControl1 UserControl1 = new UserControl1();
+                    UserControl1.FullName.Text = user.FullName;
+                    UserControl1.Email.Text = user.Email;
+                    UserControl1.PhoneNumber.Text = user.PhoneNumber;
+                    UserControl1.Address.Text = user.Address;
+                    UserControl1.PasswordHash.Text = user.PasswordHash;
+                    var appDir = Environment.CurrentDirectory;
+                    string? path = user.Picture ?? null;
+                    if (path != null)
+                        UserControl1.Picture.Source = new BitmapImage(new Uri(appDir + @"\Pictires\" + path));
 
-                    UserPanel.Children.Add(userControl);
+                    UserPanel.Children.Add(UserControl1);
                 }
             }
         }

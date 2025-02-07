@@ -19,6 +19,8 @@ public partial class Customer
 
     public DateTime? RegistrationDate { get; set; }
 
+    public string? Picture { get; set; }
+
     public virtual ICollection<ChatMessage> ChatMessages { get; set; } = new List<ChatMessage>();
 
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
